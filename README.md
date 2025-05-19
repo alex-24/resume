@@ -1,6 +1,6 @@
 # Resume
 
-This repository contains the static site powering my personal resume.
+This repository contains the static site render my personal resume.
 
 The site is built using a custom JSON-powered engine that supports:
 
